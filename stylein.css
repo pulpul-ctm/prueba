@@ -19,7 +19,7 @@ header{
 .cab_nav ul li{
     list-style: none;
     display: inline-block;
-    padding: 10px 10px;
+    padding: 10px 15px;
     color: white;
     font-size: 20px;
     font-family: sans-serif;
@@ -63,7 +63,7 @@ header{
     text-align: justify;
 
 }
-.video{
+.fondo{
     position: fixed;
     min-width: 100%;
     min-width: 100%;
